@@ -23,5 +23,5 @@ steps:
   settings:
     base64:
       from_secret: google_key
-    destination_file: /gcloud.json
+    destination_file: /drone/src/gcloud.json
 ```

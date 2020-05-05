@@ -1,0 +1,3 @@
+required_vars:
+  - BASE64
+  - DESTINATION_FILE
